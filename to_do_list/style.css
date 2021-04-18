@@ -17,12 +17,14 @@ body {
     border: 1px solid black;
     outline: none;
     font-size: 25px;
+    vertical-align: baseline;
 }
 
 #addToDo {
     height: 50px;
     width: 50px;
     border: 1px solid black;
+    vertical-align: baseline;
     font-size: 30px;
 }
 
